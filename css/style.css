@@ -1,3 +1,17 @@
 h1 {
-  color: fuchsia;
+  color:white;
+  display:flex;
+  justify-content:center;
+  background-color:#80bfff;
 }
+#search-button{
+  display:flex;
+  justify-content:flex-end;
+}
+img{
+  width:75%;
+  height:85px;
+    
+}
+
+
