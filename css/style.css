@@ -1,17 +1,24 @@
 h1 {
-  color:white;
+  color:#ffd633;
   display:flex;
   justify-content:center;
-  background-color:#80bfff;
+  background-color:#ffa31a;
+  font-size:55px;
 }
-#search-button{
+#container{
   display:flex;
-  justify-content:flex-end;
-}
-img{
-  width:75%;
-  height:85px;
-    
+  justify-content:center;
 }
 
+h2 {
+display:flex;
+justify-content:center;
+background-color:#ffd633;
+color:#ff3399;
+}
+img {
+  width:40px;
+  width:40%;
+  margin:10px 20px 30px 800px;
+}
 
