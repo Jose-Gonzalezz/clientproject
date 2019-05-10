@@ -20,7 +20,7 @@ $("#search-button").click(function() {
             console.log(random)
             var track= response[random]
             console.log(track)
-            $("ul").append("<li><a>" + track.title + "<a><li>");
+            $("ul").append('<li><a href= "' + track.permalink_url + '" >' + track.title + "<a><li>");
 
         }
     });

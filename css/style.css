@@ -4,10 +4,12 @@ h1 {
   justify-content:center;
   background-color:#ffa31a;
   font-size:55px;
+  
 }
 #container{
   display:flex;
   justify-content:center;
+ 
 }
 
 h2 {
@@ -16,9 +18,13 @@ justify-content:center;
 background-color:#ffd633;
 color:#ff3399;
 }
-img {
-  width:40px;
-  width:40%;
-  margin:10px 20px 30px 800px;
+#results{
+  background: url(https://previews.123rf.com/images/yaavi/yaavi1604/yaavi160400064/55589338-little-meditating-monk-on-the-lotus.jpg);
+  background-repeat: no-repeat;
+  background-size: 600px 600px;
+  height: 600px;
+  width: 200%; /* may not be necessary */
+  background-position: center ;
+  background-attachment: fixed;
 }
 
