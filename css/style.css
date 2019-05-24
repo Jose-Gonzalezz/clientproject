@@ -21,9 +21,9 @@ color:#ff3399;
 #results{
   background: url(https://previews.123rf.com/images/yaavi/yaavi1604/yaavi160400064/55589338-little-meditating-monk-on-the-lotus.jpg);
   background-repeat: no-repeat;
-  background-size: 600px 600px;
+  background-size: 700px 700px;
   height: 600px;
-  width: 200%; /* may not be necessary */
+  width: 300%; /* may not be necessary */
   background-position: center ;
   background-attachment: fixed;
 }
